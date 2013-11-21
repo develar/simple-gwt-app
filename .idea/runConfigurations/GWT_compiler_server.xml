@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GWT compiler server" type="GWT.ConfigurationType" factoryName="GWT Configuration" singleton="true">
+    <module name="simple-gwt-app" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="USE_SUPER_DEV_MODE" value="true" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method />
+  </configuration>
+</component>

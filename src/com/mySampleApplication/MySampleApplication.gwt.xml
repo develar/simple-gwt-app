@@ -1,0 +1,10 @@
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit 2.0//EN"
+        "http://google-web-toolkit.googlecode.com/svn/releases/2.0/distro-source/core/src/gwt-module.dtd">
+<module rename-to="MySampleApplication">
+  <inherits name='com.google.gwt.user.User'/>
+  <entry-point class='com.mySampleApplication.client.MySampleApplication'/>
+
+  <add-linker name="xsiframe"/>
+  <set-configuration-property name="devModeRedirectEnabled" value="true"/>
+  <!--<set-configuration-property name="compiler.useSourceMaps" value="true"/>-->
+</module>
